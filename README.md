@@ -4,9 +4,8 @@ GadgetHaven is an e-commerce platform designed to provide a seamless and interac
 
 ## Demo
 
-You can view the live website here: [Live Website Link](#)  
-(Attach your live link here)
-
+You can view the live website here:   
+irritatinghhh-earth.surge.sh
 ## Requirements Document
 
 figma link: https://www.figma.com/design/qr7hizhQyfmitEimBC6blK/Assignment-8?node-id=0-1&node-type=canvas&t=7Sr6v8i3wIN015u6-0
